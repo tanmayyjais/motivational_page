@@ -1,0 +1,26 @@
+html{
+    background-image: url(./assets/images/annie-spratt-6a3nqQ1YwBw-unsplash.jpg);
+    background-size:cover;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color:gold;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+div{
+    margin:50%;
+    margin-top:100px;
+    margin-left: 25%; margin-right: 25%;
+}
+img{
+    border:5px solid white;
+    width:100%;
+}
+p{
+    color:aliceblue;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size:1.5rem;
+}
